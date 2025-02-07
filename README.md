@@ -2,9 +2,7 @@
   Portfolio Website - v2.0<br/>
   <a href="https://khaderafeez.vercel.app/" target="_blank">khaderafeez.tech</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/portfolio-screenshot.png" />
-</div>
+
 
 <br/>
 
