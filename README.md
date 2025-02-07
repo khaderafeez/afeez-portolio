@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://khaderafeez.vercel.app/" target="_blank">khaderafeez.portolio</a>
+  <a href="h[ttps://khaderafeez.vercel.app/](https://afeez-portolio.vercel.app/)" target="_blank">khaderafeez.portolio</a>
 </h2>
 
 
