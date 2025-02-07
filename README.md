@@ -1,71 +1,57 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="h[ttps://khaderafeez.vercel.app/](https://afeez-portolio.vercel.app/)" target="_blank">khaderafeez.portolio</a>
-</h2>
+# Portfolio Website - v2.0
 
+## Live Demo
+[Portfolio Website](https://afeez-portolio.vercel.app/)
 
-<br/>
-
-<center>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/khaderafeez/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/khaderafeez/Portfolio?color=red&logo=github&style=for-the-badge)
-
-</center>
-
-<h3 align="center">
-    🔹
-    <a href="https://github.com/khaderafeez/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/khaderafeez/Portfolio/issues">Request Feature</a>
-</h3>
+## Contribute
+🔹 [Report a Bug](https://github.com/khaderafeez/Portfolio/issues) &nbsp; &nbsp; 🔹 [Request a Feature](https://github.com/khaderafeez/Portfolio/issues)
 
 ## TL;DR
 
 You can fork this repo to modify and make changes of your own. Please give proper credit by linking back to [khaderafeez](https://github.com/khaderafeez/Portfolio). Thanks!
 
-
-This project was built using these technologies.
-
+## Built With
 - React.js
 - Node.js
 - Express.js
 - CSS3
-- VsCode
+- VS Code
 - Vercel
 
 ## Features
-
-**📖 Multi-Page Layout**
-
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
-
-**📱 Fully Responsive**
+- 📖 Multi-Page Layout
+- 🎨 Styled with React-Bootstrap and CSS (Easy customization)
+- 📱 Fully Responsive
 
 ## Getting Started
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+Clone this repository. You will need `Node.js` and `Git` installed globally on your machine.
 
-## 🛠 Installation and Setup Instructions
+### 🛠 Installation and Setup Instructions
 
-1. Installation: `npm install`
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/khaderafeez/Portfolio.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd Portfolio
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Start the development server:
+   ```sh
+   npm start
+   ```
 
-2. In the project directory, you can run: `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+The app will run in development mode at [http://localhost:3000](http://localhost:3000). The page will reload if you make edits.
 
 ## Usage Instructions
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+Open the project folder and navigate to `/src/components/`. You will find all the components used; edit them accordingly to update your information.
 
-### Show your support
-
+### Show Your Support
 Give a ⭐ if you like this website!
-
 
