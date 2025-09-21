@@ -55,3 +55,7 @@ Open the project folder and navigate to `/src/components/`. You will find all th
 ### Show Your Support
 Give a ⭐ if you like this website!
 
+### ✨ Made By
+
+Built with ❤️ by Afeez
+A simple experiment to add beauty and joy with code.
